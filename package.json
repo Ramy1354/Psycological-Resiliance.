@@ -1,0 +1,6 @@
+{
+  "name": "demo-static-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static HTML/CSS site prepared for Vercel deployment"
+}

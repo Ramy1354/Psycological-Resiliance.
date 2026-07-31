@@ -1,0 +1,23 @@
+body
+{
+    background-color: #747373;
+}
+.highlight
+{
+    background-color: #f8cb02;
+    display: inline-block;
+
+}
+.highlight2
+{
+    background-color: #0af802;
+    display: inline-block;
+}
+.colortext
+{
+    color: #02f8ec;
+}
+.colortext2
+{
+    color: #2cbd00;
+}

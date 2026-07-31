@@ -1,0 +1,11 @@
+"editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "off"
+},
+"editor.suggestOnTriggerCharacters": false,
+"editor.wordBasedSuggestions": "off",
+"editor.parameterHints.enable": false,
+"editor.autoClosingBrackets": "never",
+"editor.autoClosingQuotes": "never",
+"editor.autoSurround": "never"
